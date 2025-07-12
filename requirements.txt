@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3~=2.98
+pyaudio
+tkinter
+
+openai~=1.58.1
+pip~=21.3.1
+wheel~=0.37.1
+setuptools~=60.2.0
